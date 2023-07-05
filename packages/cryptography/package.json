@@ -1,6 +1,6 @@
 {
-    "name": "@hashgraph/cryptography",
-    "version": "1.4.6",
+    "name": "@arcticwallet/hashgraph-cryptography",
+    "version": "1.4.7",
     "description": "Cryptographic utilities and primitives for the Hedera™ Hashgraph SDK",
     "main": "./lib/index.cjs",
     "types": "./lib/index.d.ts",
@@ -68,9 +68,9 @@
         "utf8": "^3.0.0"
     },
     "peerDependencies": {
-        "expo": "^45.0.3",
-        "expo-crypto": "^10.1.2",
-        "expo-random": "^12.1.2"
+        "expo": "^48.0.19",
+        "expo-crypto": "^12.2.2",
+        "expo-random": "^13.1.1"
     },
     "peerDependenciesMeta": {
         "expo": {
@@ -111,9 +111,9 @@
         "eslint-plugin-jsdoc": "^39.6.7",
         "eslint-plugin-mocha": "^10.1.0",
         "eslint-plugin-node": "^11.1.0",
-        "expo": "^47.0.13",
-        "expo-crypto": "^12.0.0",
-        "expo-random": "^13.0.0",
+        "expo": "^48.0.19",
+        "expo-crypto": "^12.2.2",
+        "expo-random": "^13.1.1",
         "geckodriver": "^3.2.0",
         "mocha": "^10.2.0",
         "npm-run-all": "^4.1.5",
